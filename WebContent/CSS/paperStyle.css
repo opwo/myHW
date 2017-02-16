@@ -1,0 +1,37 @@
+@CHARSET "UTF-8";
+.main{
+	display:table;
+	*display:block;
+	background-color:#fff;
+	 border:1px solid #aaa;
+	 *border-color:#fff;
+	  box-shadow:0px 2px 2px rgba(0,0,0,0.1);
+	   width:820px;
+	   _width:820px;
+	   position:relative;
+	   top:0;
+	   left:0;
+	   bottom:0;
+	   right:0;
+	   overflow:hidden;
+	   margin:20px auto;
+	   }
+	
+	
+	.left{
+	padding-left:5px;
+		width: 30%;
+		height: auto;
+		float: left;
+	}
+	.right{
+	border-left-style:dotted;
+	border-left-width:2px;
+	border-left-color:black;
+		height: auto;
+		width: 69%;
+		float: left;
+	}
+	.body{
+		background-color: #F2F2F2
+	}
